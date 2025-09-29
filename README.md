@@ -1,4 +1,4 @@
-# 🧩 Challenge Harian #00X: Pembuat Kata Acak (String Shuffler)
+# 🧩 Pembuat Kata Acak (String Shuffler)
 
 **Tanggal Proyek:** 2025-09-29
 
